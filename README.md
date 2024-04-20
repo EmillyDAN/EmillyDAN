@@ -1,11 +1,11 @@
 ### Oieee! 👋
 
 - 🌱 Cursando Tecnologia da informação!
-- 😄 Pronouns: Ela/Dela.
+- 😄 Pronomes: Ela/Dela.
 -->
 
 
-![image](https://github.com/EmillyDAN/EmillyDAN/assets/162990758/f3a10f75-fb73-4cb3-bdda-46fa0ca51af5)
+![Emilly GitHub stats](https://github-readme-stats.vercel.app/api?username=EmillyDAN&hide=contribs,prs)
 
 
 Linguagem de programação que estou usando/aprendendo atualmente:
